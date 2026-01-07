@@ -1,6 +1,7 @@
 {
-  "version": "28.1",
-  "alert_message": "Test",
-  "force_disable": true,
-  "download_url": "https://t.me/Fer3onOS/17424"
+  "latest_version": "28.1",
+  "download_url": "https://t.me/Fer3onOS/17424",
+  "update_message": "🚀 تحديث جديد متاح! تم إضافة ميزات جديدة.",
+  "kill_switch": true,
+  "kill_message": "تم إيقاف الإضافة مؤقتاً للصيانة."
 }
